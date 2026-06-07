@@ -1,3 +1,4 @@
+# Reflections
 A collection of essays exploring philosophy, spirituality, literature, and the nature of the self.
 
 ---
